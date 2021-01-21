@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@200&family=Lora&family=Montserrat:wght@700&display=swap');
+
+.logo-font {
+    font-family: 'Crimson Pro', serif;
+    font-weight: 200;
+}
+
+.nav-links-font {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+
+.content-title-font {
+    font-family: 'Lora', serif;
+    font-weight: 400;
+}
+
+.content-paragraph-font {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+}
+
+.a-link-font {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+.card-title-font {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+.card-desc-font {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+}
+
+.card-content-font {
+    font-family: 'Lora', serif;
+    font-weight: 400;
+}
+
+.footer-font {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+}
