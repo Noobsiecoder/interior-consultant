@@ -2,7 +2,7 @@
 package.json
 node_modules
 
-# Taiwlind files
+# Tailwind files
 tailwind.css
 postcss.config.js
 tailwind.config.js
